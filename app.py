@@ -11,7 +11,7 @@ app = Flask(__name__)
 SEARCH_BASE = "https://www.cardmarket.com/fr/Pokemon/Products/Search?category=-1&searchString="
 DEFAULT_FILTERS = {
     "sellerCountry": "12",  # France
-    "language": "2",        # Français
+    "language": "7",        # Français
     "minCondition": "2",    # Near Mint
 }
 PRICE_TREND_ANCHORS = [
